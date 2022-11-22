@@ -1,1 +1,1 @@
-# nightscout-deploy
+# nightscout-server-deploy
